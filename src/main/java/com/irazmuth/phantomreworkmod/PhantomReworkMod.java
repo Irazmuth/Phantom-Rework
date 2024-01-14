@@ -29,7 +29,7 @@ import org.slf4j.Logger;
 @Mod(PhantomReworkMod.MODID)
 public class PhantomReworkMod
 {
-    // Define mod id in a common place for everything to reference ijhg
+    // Define mod id in a common place for everything to reference
     public static final String MODID = "phantomreworkmod";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
